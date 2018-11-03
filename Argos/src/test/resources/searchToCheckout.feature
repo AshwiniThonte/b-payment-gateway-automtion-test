@@ -21,3 +21,6 @@ Feature: Search to checkout
       |product|postcode|store|shopoption|
       |nike   |e6  |eastham|collection|
       |puma   |e6  |barking|delivery  |
+
+
+  #I have completed this scenario#
